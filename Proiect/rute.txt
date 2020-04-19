@@ -1,0 +1,3 @@
+Iasi,Bucuresti,400,360
+Cluj,Timisoara,700,400
+Bucuresti,Cluj,600,360

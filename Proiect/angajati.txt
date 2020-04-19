@@ -1,0 +1,5 @@
+Puculescu,Justinian,112233,1,C
+Boloboc,Paul,12333,1,B
+Iliescu,Andrei,12345,0
+Tatutu,Varutu,6942069,0
+Ion,Ionel,123456,0

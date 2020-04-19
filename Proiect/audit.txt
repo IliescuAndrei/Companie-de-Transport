@@ -1,0 +1,19 @@
+
+afisareRute,2020-04-20 01:58:49.337
+adaugareOras,2020-04-20 01:59:36.79
+afisareOrase,2020-04-20 01:59:42.563
+afisareCurse,2020-04-20 02:00:02.227
+adaugareCursa,2020-04-20 02:00:55.657
+adaugareRuta,2020-04-20 02:01:55.831
+afisareRute,2020-04-20 02:02:11.542
+afisareRute,2020-04-20 02:12:03.658
+adaugareRuta,2020-04-20 02:12:51.519
+afisareRute,2020-04-20 02:13:08.964
+afisareAutomobile,2020-04-20 02:13:21.259
+afisareAngajatiSortNume,2020-04-20 02:13:35.839
+afisareOrase,2020-04-20 02:13:43.324
+adaugareOras,2020-04-20 02:14:03.293
+afisareOrase,2020-04-20 02:14:06.441
+afisareCurse,2020-04-20 02:14:28.801
+afisareDepozite,2020-04-20 02:14:45.296
+afisareDepozite,2020-04-20 02:15:49.992
